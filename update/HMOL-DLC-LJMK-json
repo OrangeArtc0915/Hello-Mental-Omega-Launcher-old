@@ -1,0 +1,15 @@
+{
+  "name": "HMOL联机模块",
+  "version": "3.0.0",
+  "release_date": "2026-08-10",
+  "min_version": "3.0.0",
+  "variant": "windows",
+  "mandatory": false,
+  "exe": {
+    "url": "https://github.com/OrangeArtc0915/Hello-Mental-Omega-Launcher/releases/download/v3.0.0/HMOL联机模块.exe",
+    "size": 48945271,
+    "sha256": "fb5b7401de6c1063bc66e4ede774337b8882a1f01cf5d21aa2038c50f48fafd7"
+  },
+  "changelog_zh": "HMOL联机模块 v3.0.0：跨公网 · 模拟局域网联机工具（红警2心灵终结），EasyTier/n2n 双方案。",
+  "changelog_en": "HMOL Online Module v3.0.0: cross-network virtual LAN tool (RA2 Mental Omega), EasyTier/n2n dual engines."
+}
