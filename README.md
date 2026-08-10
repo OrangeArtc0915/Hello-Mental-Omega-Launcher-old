@@ -31,6 +31,11 @@ https://cdn.jsdelivr.net/gh/OrangeArtc0915/Hello-Mental-Omega-Launcher@update/up
 https://cdn.jsdelivr.net/gh/OrangeArtc0915/Hello-Mental-Omega-Launcher@update/update/HMOL.wine.update.json
 ```
 
+### HMOL-DLC-联机模块
+```
+https://cdn.jsdelivr.net/gh/OrangeArtc0915/Hello-Mental-Omega-Launcher@update/update/HMOL-DLC-LJMK-json
+```
+
 ## 强制刷新 CDN 缓存
 
 如果 CDN 返回的 manifest 版本滞后，访问以下 URL 即可强制 jsDelivr 重新拉取：
@@ -42,6 +47,11 @@ https://purge.jsdelivr.net/gh/OrangeArtc0915/Hello-Mental-Omega-Launcher@update/
 ### HMOL-wine
 ```
 https://purge.jsdelivr.net/gh/OrangeArtc0915/Hello-Mental-Omega-Launcher@update/update/HMOL.wine.update.json
+```
+
+### HMOL-DLC-联机模块
+```
+https://purge.jsdelivr.net/gh/OrangeArtc0915/Hello-Mental-Omega-Launcher@update/update/HMOL-DLC-LJMK-json
 ```
 浏览器打开即刷新，无需参数。最长生效时间 24 小时，一般几分钟内完成。
 
