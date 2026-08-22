@@ -152,7 +152,7 @@ Select-String -Path "logs\HMOL_*.log" -Pattern "Traceback" | Select-Object -Last
 
 ### 无法连接微软服务器
 
-**症状**：微软登录、OneDrive 浏览、QQ 喊话均失败
+**症状**：微软登录、OneDrive 浏览均失败
 
 **排查**：
 
@@ -375,8 +375,8 @@ Select-String -Path "logs\HMOL_*.log" -Pattern "ERROR" | Select-Object -Last 20
 # 查询 Traceback
 Select-String -Path "logs\HMOL_*.log" -Pattern "Traceback" -Context 0,10
 
-# 查询特定模块
-Select-String -Path "logs\HMOL_*.log" -Pattern "HMOL_QQ"
+# 查询下载相关
+Select-String -Path "logs\HMOL_*.log" -Pattern "OneDrive|download|分片"
 
 # 按日期筛选
 Select-String -Path "logs\HMOL_2026-07-20.log" -Pattern "ERROR"
@@ -459,7 +459,6 @@ rmdir /s /q logs
 
 - ❓ [FAQ](HMOL-Wine-FAQ) — 常见问题
 - 📋 [Error Codes](HMOL-Wine-Error-Codes) — 错误码速查
-- 🔒 [Security and License](HMOL-Wine-Security-and-License) — 安全细节
 - 🤝 [Contributing](HMOL-Wine-Contributing) — 反馈模板
 
 ***

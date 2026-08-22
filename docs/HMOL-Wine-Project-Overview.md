@@ -9,7 +9,7 @@
 **Hello Mental Omega Launcher (HMOL)** 是一个**专为 Mental Omega 玩家打造**的桌面启动器，目标是：
 
 - ✅ 提供**比官方启动器更丰富**的实例/插件/备份管理能力
-- ✅ 集成**微软账号登录**、**OneDrive 资源共享**、**QQ 喊话**等社区功能
+- ✅ 集成**微软账号登录**、**OneDrive 资源共享与下载加速**等社区功能
 - ✅ 严守\*\*「源代码可见但禁止二次修改」许可证\*\*，保护项目完整性
 - ✅ 在**安全**与**易用性**之间取得平衡（AES-256-GCM + tkinter 原生 UI）
 
@@ -30,9 +30,7 @@
 
 ## 🔗 相关资源 / Related Resources
 
-- 📜 [许可证](HMOL-Wine-Security-and-License) — 完整使用条款
-- 🔒 [安全策略](HMOL-Wine-Security-and-License#安全特性) — 加密与防护细节
-- 🐛 [错误码手册](HMOL-Wine-Error-Codes) — 149+ 错误码速查
+- 🐛 [错误码手册](HMOL-Wine-Error-Codes) — 138+ 错误码速查
 - 🤝 [贡献指南](HMOL-Wine-Contributing) — 反馈与建议
 
 ***

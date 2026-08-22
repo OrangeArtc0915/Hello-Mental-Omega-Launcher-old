@@ -81,7 +81,6 @@
 
 - 微软设备代码流登录
 - OneDrive 资源浏览
-- QQ 喊话
 - 安全审计/版本检查
 
 > 🚫 **启动器不会主动上传任何用户数据**（无中央服务器）。
@@ -142,7 +141,7 @@
 
 - 双击 `HMOL.exe` 或桌面图标
 - 主界面在 3 秒内显示
-- 标题栏显示 "Hello Mental Omega Launcher v2.4"
+- 标题栏显示 "Hello Mental Omega Launcher v3.2.0"
 
 ### 2. 实例管理可用
 
@@ -203,7 +202,6 @@
 ## 📚 下一步 / Next Steps
 
 - 📖 阅读 [User Guide](HMOL-Wine-User-Guide) 学习基本使用
-- ⚙️ 查看 [Features](HMOL-Wine-Features) 了解高级功能
 - ❓ 遇事先查 [FAQ](HMOL-Wine-FAQ)
 
 ***

@@ -9,7 +9,8 @@
 | GitHub   | [OrangeArtc0915/Hello-Mental-Omega-Launcher](https://github.com/OrangeArtc0915/Hello-Mental-Omega-Launcher)  |
 | Issues   | [Issue Tracker](https://github.com/OrangeArtc0915/Hello-Mental-Omega-Launcher/issues)                        |
 | Security | [Security Advisories](https://github.com/OrangeArtc0915/Hello-Mental-Omega-Launcher/security/advisories/new) |
-| QQ 群     | `1034243331`                                                                                                 |
+| QQ 1群    | `1034243331`                                                                                                 |
+| QQ 2群    | `1092671790`                                                                                                 |
 
 ***
 

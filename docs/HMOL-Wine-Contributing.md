@@ -120,7 +120,7 @@
 ## 环境
 - wine版本
 - winlator版本
-- HMOL-wine v2.4 (2026-07-20)
+- HMOL-wine v3.2.0 (2026-08-21)
 
 ## 复现步骤
 1. 启动 HMOL

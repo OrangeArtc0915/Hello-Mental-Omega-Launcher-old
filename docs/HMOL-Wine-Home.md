@@ -1,6 +1,6 @@
 # 🚀 Hello Mental Omega Launcher (HMOL)
 
-> **专为心灵终结 (Mental Omega) 玩家打造的桌面启动器 · v2.4**
+> **专为心灵终结 (Mental Omega) 玩家打造的桌面启动器 · v3.2.0**
 > **A desktop launcher built for the Mental Omega community**
 
 > 🚫 **本项目采用「源代码可见但禁止二次修改」许可证。任何形式的修改、二次开发、二次封装、二次分发均被严格禁止。**
@@ -27,9 +27,8 @@
 | 1️⃣ | 了解项目背景与定位  | [Project Overview](HMOL-Wine-Project-Overview)     |
 | 2️⃣ | 下载并安装启动器   | [Installation Guide](HMOL-Wine-Installation-Guide) |
 | 3️⃣ | 学习基本使用     | [User Guide](HMOL-Wine-User-Guide)                 |
-| 4️⃣ | 探索高级功能     | [Features](HMOL-Wine-Features)                     |
-| 5️⃣ | 遇到问题先查 FAQ | [FAQ](HMOL-Wine-FAQ)                               |
-| 6️⃣ | 报告 Bug     | [Troubleshooting](HMOL-Wine-Troubleshooting)       |
+| 4️⃣ | 遇到问题先查 FAQ | [FAQ](HMOL-Wine-FAQ)                               |
+| 5️⃣ | 报告 Bug     | [Troubleshooting](HMOL-Wine-Troubleshooting)       |
 
 ***
 
@@ -43,14 +42,12 @@
 
 ### ⚙️ 进阶 / Advanced
 
-- **[Features](HMOL-Wine-Features)** — 实例管理、包管理、备份还原、OneDrive、QQ 喊话、布局编辑器
 - **[Error Codes](HMOL-Wine-Error-Codes)** — 错误码速查表（E1 \~ E10 + 附录）
 - **[Troubleshooting](HMOL-Wine-Troubleshooting)** — 常见问题排查与日志分析
 
 ### 📋 项目信息 / Project Info
 
 - **[FAQ](HMOL-Wine-FAQ)** — 常见问题解答
-- **[Security and License](HMOL-Wine-Security-and-License)** — 安全特性、加密方案、许可证
 - **[Contributing](HMOL-Wine-Contributing)** — 贡献与反馈指南
 
 ***
@@ -59,15 +56,17 @@
 
 | 模块                 | 说明                              |
 | ------------------ | ------------------------------- |
-| 🎮 **一键启动**        | 快速启动 Mental Omega 客户端，支持自定义启动参数 |
+| 🎮 **一键启动**        | 快速启动 Mental Omega 客户端，支持 vbs/exe 两种启动方式 |
 | 📂 **实例管理**        | 创建/管理/切换多个游戏实例，每个实例独立配置         |
-| 📦 **包管理**         | 安装、卸载、导出 ZIP/7Z/RAR 格式的包        |
+| 📦 **包管理**         | 安装、卸载、导入 ZIP/7Z/RAR 格式的插件包        |
 | 💾 **备份与还原**       | 一键备份/恢复原版游戏目录                   |
-| ☁️ **OneDrive 集成** | 通过微软账号访问共享资源（"笨蛋广场"）            |
-| 📢 **QQ 喊话**       | 通过 QQ 机器人发布联机房间信息               |
+| ⚡ **下载加速**        | 多文件并行 + 多线程分片下载、断点续传，速度提升约 3 倍 |
+| ☁️ **OneDrive 集成** | 通过微软账号访问共享资源（"笨蛋广场"），支持后台下载与镜像线路 |
+| 🎨 **主题**          | 浅色/深色自动跟随系统 + 蓝紫渐变封面           |
+| 🔄 **自动更新**        | 启动后静默检查更新，一键升级                |
 | 🛡️ **加密凭据**       | AES-256-GCM 加密保存敏感信息，机器绑定       |
-| 🎨 **多主题**         | 6 套精心设计的主题，深色/浅色自适应             |
-| 🔍 **错误码手册**       | 149+ 条错误码完整速查                   |
+| 📊 **性能监控**        | 低配机适配，记录启动/内存/页面构建耗时          |
+| 🔍 **错误码手册**       | 138+ 条错误码完整速查                   |
 
 ***
 

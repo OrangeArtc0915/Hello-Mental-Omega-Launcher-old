@@ -71,7 +71,7 @@
 
 ```markdown
 ## 环境
-- HMOL 版本: v2.4 (commit xxxxxxx)
+- HMOL 版本: v3.2.0 (commit xxxxxxx)
 - Windows 版本: Windows 11 22H2 (Build 22621)
 - 启动方式: EXE 
 
@@ -226,7 +226,7 @@ HMOL 启动器界面与文档的官方语言为**简体中文**,附带**英文�
 
 ### 致谢
 
-安全研究者将在 [SECURITY.md](../SECURITY.md) 中致谢(经本人同意)。
+安全研究者将在 [SECURITY.md](https://github.com/OrangeArtc0915/Hello-Mental-Omega-Launcher/blob/main/SECURITY.md) 中致谢(经本人同意)。
 
 ***
 
@@ -250,7 +250,7 @@ HMOL 启动器界面与文档的官方语言为**简体中文**,附带**英文�
 | 项目    | 说明                 |
 | ----- | ------------------ |
 | 通知方信息 | 姓名、联系方式            |
-| 被侵权作品 | HMOL Launcher v2.4 |
+| 被侵权作品 | HMOL Launcher v3.x |
 | 侵权位置  | 具体 URL/包名/店铺链接     |
 | 侵权方信息 | GitHub 用户名、店铺名称等   |
 | 善意声明  | "我相信该使用未经授权"       |
@@ -314,7 +314,8 @@ HMOL 启动器界面与文档的官方语言为**简体中文**,附带**英文�
 | --------------- | --------------------------------------------------------------------------------------- |
 | GitHub Issues   | <https://github.com/OrangeArtc0915/Hello-Mental-Omega-Launcher/issues>                  |
 | GitHub Security | <https://github.com/OrangeArtc0915/Hello-Mental-Omega-Launcher/security/advisories/new> |
-| QQ 群            | 1034243331                                                                              |
+| QQ 1群            | 1034243331                                                                              |
+| QQ 2群            | 1092671790                                                                              |
 
 ***
 
