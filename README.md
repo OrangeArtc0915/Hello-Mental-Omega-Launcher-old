@@ -2,7 +2,8 @@
 
 > 🚫 **本项目采用「源代码可见但禁止二次修改」许可证。任何形式的修改、二次开发、二次封装、二次分发均被严格禁止。**
 >
-> 🚫 **This project uses a "Source-Available, No-Modification" license. Any form of modification, derivative work, repackaging, or redistribution is strictly prohibited.**
+> 🚫 **此仓库的HMOL启动器均已停止支持！意味着远古版、PY版、Qt版、Wine版不会获得任何技术支持且使用此版本发生的一切问题，作者不会理会！**
+> **C版HMOL启动器可在官网下载！https://orangeartc0915.github.io/Hello-Mental-Omega-Launcher/**
 
 [![Version](https://img.shields.io/badge/version-2.4-blue.svg)](version.json)
 [![License](https://img.shields.io/badge/license-HMOL-red.svg)](LICENSE)
